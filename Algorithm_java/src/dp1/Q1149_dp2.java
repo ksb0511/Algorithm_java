@@ -1,3 +1,4 @@
+package dp1;
 import java.util.Scanner;
 public class Q1149_dp2 {
 	public static void main(String[] args) {

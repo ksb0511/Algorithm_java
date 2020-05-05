@@ -1,3 +1,4 @@
+package dp1;
 import java.util.Scanner;
 
 public class Q1463_dp1 {
