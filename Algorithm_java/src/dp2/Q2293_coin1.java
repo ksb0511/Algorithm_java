@@ -14,6 +14,7 @@ public class Q2293_coin1 {
 		int[] dp = new int[k + 1];
 
 		dp[0] = 1;
+		
 		for (int i = 0; i < n; i++) {
 			coin = sc.nextInt();
 			for (int j = 1; j < k + 1; j++) {
